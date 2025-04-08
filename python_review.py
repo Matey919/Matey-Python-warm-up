@@ -1,10 +1,2 @@
-example = "I'm a string" #The variable called example is holding the string value "I'm a string"
-a = 3 #The variable called a is holding the integar value 3
-b = 4.0 #The variable called b is holding the float value 4.0
-c = True #The variable called c is holding the boolean value "True"
-d = False #The variable called d is holding the boolean value "False"
-e = "Hey!" #The variable called e is holding the string value "Hey!"
-f = None #The variable called f is holding the None value None
-age = 32 #The variable called age is holding the integar value 32
-name = "Insert your name here" #The variable called name is holding the input value "Insert your name here"
-instrument = "Insert your instrument here" #The variable called instrument is holding the input value "Insert your instrument here"
+'''
+'''
